@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2022-10-07", "2022-10-07", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationExample", "ValidationExample\ValidationExample.csproj", "{4B637787-C048-4A69-8127-C3C114954886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogExample", "SerilogExample\SerilogExample.csproj", "{A3D36831-9215-453D-BD6D-CC7ACC387734}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{4B637787-C048-4A69-8127-C3C114954886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B637787-C048-4A69-8127-C3C114954886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B637787-C048-4A69-8127-C3C114954886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D36831-9215-453D-BD6D-CC7ACC387734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D36831-9215-453D-BD6D-CC7ACC387734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D36831-9215-453D-BD6D-CC7ACC387734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D36831-9215-453D-BD6D-CC7ACC387734}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4B637787-C048-4A69-8127-C3C114954886} = {5B164EA2-7190-4804-A78F-D4FD69BD5D8B}
+		{A3D36831-9215-453D-BD6D-CC7ACC387734} = {5B164EA2-7190-4804-A78F-D4FD69BD5D8B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2C172BA-40FB-4112-87B3-FAA9EEC70E2C}
